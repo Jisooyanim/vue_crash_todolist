@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import AddTodo from './components/AddTodo'
+import AddTodo from './components/AddTodo';
 import Header from './components/layout/Header';
 import Todos from './components/Todos';
 
